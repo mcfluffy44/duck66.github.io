@@ -1,2 +1,2 @@
-# duck66.github.io
-This application is created for my sharing knowledge material on "How to Use Bootstrap on HTML"
+# Mind App 
+Mind is an application to help people recognize their depressive level
