@@ -50,7 +50,7 @@
               <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Enter password">
             </div>
             <div class="text-center">
-                <a href="./src/admin/index.html">
+                <a href="./src/admin/index.php">
                     <button type="button" class="btn btn-primary btn-lg" style="padding-left: 50px; padding-right: 50px">Login</button>
                 </a>
             </div>
